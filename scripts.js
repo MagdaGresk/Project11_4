@@ -8,7 +8,7 @@ function Phone(brand, price, color, capacity) {
 	this.capacity = capacity
 }
 Phone.prototype.printInfo = function() {
-		console.log('The phone brand is ' + this.brand + ', color is ' + this.color + 'and the price is $' + this.price + ' for ' + this.capacity + 'GB.')
+		console.log('The phone brand is ' + this.brand + ', color is ' + this.color + ' and the price is $' + this.price + ' for ' + this.capacity + 'GB.')
 }
 iPhone6S.printInfo()
 GalaxyS9.printInfo()
