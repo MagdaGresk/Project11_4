@@ -12,4 +12,4 @@ Phone.prototype.printInfo = function() {
 }
 iPhone6S.printInfo()
 GalaxyS9.printInfo()
-OnePlus.printInfo()
+OnePlus5T.printInfo()
